@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "make": "Apple",
+        "body": "Curve",
+        "price": 45323,
+        "year": 2023
+    },
+    {
+        "id": 2,
+        "make": "Samsung",
+        "body": "Edge",
+        "price": 35422,
+        "year": 2022
+    },
+    {
+        "id": 3,
+        "make": "Oneplus",
+        "body": "Round",
+        "price": 33693,
+        "year": 2021
+    }
+   
+]
